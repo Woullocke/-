@@ -12,8 +12,8 @@ struct Robot
     int speed;
 };
 
-const int lines = 3;
-const int colums = 3;
+const int lines = 7;
+const int colums = 7;
 
 void func(std::array<std::array<Robot,colums>,lines> dask)
 {
